@@ -18,3 +18,4 @@ Controls in Game:
   1-0 changes music track
   I/J/K/L scroll map around
   
+![Foenix IDE 2025-04-26 7_54_57 AM](https://github.com/user-attachments/assets/2ea81d70-e1a5-4577-bed6-747170fae27a)
