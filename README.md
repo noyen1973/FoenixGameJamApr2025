@@ -4,7 +4,7 @@ Bawk Bawk Cluck Cluck
 My submission for the Easter April 2025 Foenix Game Jam
 
 Keys in Title Screen:
-
+  
   F1 Toggles numbers of players
   F3 supposed Toggles keyboard/joystick
   M turn on/off music
