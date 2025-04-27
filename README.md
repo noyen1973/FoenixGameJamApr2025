@@ -1,9 +1,9 @@
-## FoenixGameJamApr2025
-Bawk Bawk Cluck Cluck
+## FoenixGameJamApr2025<br/>
+Bawk Bawk Cluck Cluck<br/>
 <br/>
-My submission for the Easter April 2025 Foenix Game Jam
+My submission for the Easter April 2025 Foenix Game Jam<br/>
 <br/>
-#Keys in Title Screen:<br/>
+Keys in Title Screen:<br/>
 <br/>  
   F1 Toggles numbers of players<br/>
   F3 supposed Toggles keyboard/joystick<br/>
@@ -11,7 +11,7 @@ My submission for the Easter April 2025 Foenix Game Jam
   1-0 changes music track<br/>
   X to exit game<br/>
 <br/>  
-#Controls in Game:
+Controls in Game:
 
   Player 1 in first game port
   Player 2 arrow/cursor keys and ',' (comma)
