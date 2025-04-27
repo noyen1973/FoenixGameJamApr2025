@@ -1,17 +1,17 @@
-# FoenixGameJamApr2025
+## FoenixGameJamApr2025
 Bawk Bawk Cluck Cluck
-
+<br/>
 My submission for the Easter April 2025 Foenix Game Jam
-
-Keys in Title Screen:
-  
-  F1 Toggles numbers of players
-  F3 supposed Toggles keyboard/joystick
-  M turn on/off music
-  1-0 changes music track
-  X to exit game
-  
-Controls in Game:
+<br/>
+#Keys in Title Screen:<br/>
+<br/>  
+  F1 Toggles numbers of players<br/>
+  F3 supposed Toggles keyboard/joystick<br/>
+  M turn on/off music<br/>
+  1-0 changes music track<br/>
+  X to exit game<br/>
+<br/>  
+#Controls in Game:
 
   Player 1 in first game port
   Player 2 arrow/cursor keys and ',' (comma)
