@@ -18,5 +18,6 @@ My submission for the Easter April 2025 Foenix Game Jam<br/>
 +  1/2/3/4/5/6/7/8/9/0 changes music track<br/>
 +  I/J/K/L scroll map around<br/>
 +  X to return to title screen<br/>
-<br/>  
+<br/>
+
 ![Foenix IDE 2025-04-26 7_54_57 AM](https://github.com/user-attachments/assets/2ea81d70-e1a5-4577-bed6-747170fae27a)
